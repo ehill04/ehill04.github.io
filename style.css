@@ -1,0 +1,25 @@
+.subheadings {
+          font-size: 13pt;
+          font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 12pt;
+}
+
+.italic {
+    font-style: italic;
+    font-size: 12pt;
+}
+
+#main {
+    text-align: center;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+#undermain {
+    text-align: center;
+    font-size: 11pt;
+}
